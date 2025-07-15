@@ -34,16 +34,11 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 ## Steps
 
-drag & drop screenshots here or use imgur and reference them using imgsrc
 
-Every screenshot should have some text explaining what the screenshot is about.
+ <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Controls-and-compliance-checklist.docx">Controls-and-compliance-checklist</a>
 
- <a href="Projects/Security Audit/Controls-and-compliance-checklist.docx">Controls-and-compliance-checklist</a>|
+ <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Control-categories.docx">Control Categories</a>
+ 
+ <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Botium-Toys-Scope-goals-and-risk-assessment-report.docx">Botuim Toyes Scope Goals and Risk Assessment Report</a>
 
 
-Projects/Security Audit/Control-categories.docx
-
-Projects/Security Audit/Botium-Toys-Scope-goals-and-risk-assessment-report.docx
-Example below.
-
-_Ref 1: Network Diagram_
