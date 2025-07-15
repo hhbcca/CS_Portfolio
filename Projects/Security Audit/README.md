@@ -38,6 +38,12 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
+Controls-and-compliance-checklist 
+Projects/Security Audit/Controls-and-compliance-checklist.docx
+
+Projects/Security Audit/Control-categories.docx
+
+Projects/Security Audit/Botium-Toys-Scope-goals-and-risk-assessment-report.docx
 Example below.
 
 _Ref 1: Network Diagram_
