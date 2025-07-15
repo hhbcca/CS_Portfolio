@@ -38,8 +38,8 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
 
-Controls-and-compliance-checklist 
-Projects/Security Audit/Controls-and-compliance-checklist.docx
+ <a href="Projects/Security Audit/Controls-and-compliance-checklist.docx">Controls-and-compliance-checklist</a>|
+
 
 Projects/Security Audit/Control-categories.docx
 
