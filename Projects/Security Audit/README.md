@@ -18,11 +18,13 @@ Your task is to review the IT manager’s scope, goals, and risk assessment repo
 
 Step 1: Access supporting materials
 
-Review the following material and complete a security audit using the checklist below:
+Review the following material and complete a security audit:
 
 <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Control-categories.docx">Control Categories</a>
  
 <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Botium-Toys-Scope-goals-and-risk-assessment-report.docx">Botuim Toyes Scope Goals and Risk Assessment Report</a>
+
+Step 2: Conduct the audit by completing the checklist below :
 
 <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Controls-and-compliance-checklist.docx">Controls and compliance checklist</a>
 
