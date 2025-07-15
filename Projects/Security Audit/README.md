@@ -28,4 +28,4 @@ Step 2: Conduct the audit by completing the checklist below :
 
 <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Controls-and-compliance-checklist.docx">Controls and compliance checklist</a>
 
-
+Completed <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Controls-and-compliance-checklist-complete.docx">Controls and compliance checklist</a>
