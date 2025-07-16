@@ -14,31 +14,18 @@ The IT manager starts by implementing the National Institute of Standards and Te
 
 Your task is to review the IT manager’s scope, goals, and risk assessment report. Then, perform an internal audit by completing a controls and compliance checklist. 
 
-### Skills Learned
-
-[Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
-### Tools Used
-
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
 ## Steps
 
+Step 1: Access supporting materials
 
- <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Controls-and-compliance-checklist.docx">Controls-and-compliance-checklist</a>
+Review the following material and complete a security audit:
 
- <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Control-categories.docx">Control Categories</a>
+<a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Control-categories.docx">Control Categories</a>
  
- <a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Botium-Toys-Scope-goals-and-risk-assessment-report.docx">Botuim Toyes Scope Goals and Risk Assessment Report</a>
+<a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Botium-Toys-Scope-goals-and-risk-assessment-report.docx">Botuim Toyes Scope Goals and Risk Assessment Report</a>
 
+Step 2: Conduct the audit by completing the checklist below :
 
+<a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Controls-and-compliance-checklist.docx">Controls and compliance checklist</a>
+
+<a href="https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Security%20Audit/Controls-and-compliance-checklist-complete.docx">Completed Controls and compliance checklist</a>
