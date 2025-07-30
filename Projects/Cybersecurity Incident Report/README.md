@@ -26,13 +26,13 @@ To use the template for this course item, click the link below and select Use Te
 
 Use the sentence starters and prompts provided in the template to support your thinking and ensure that you include all relevant details about the incident.
 
-- Link to template: 
+- Link to template: https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Cybersecurity%20Incident%20Report/Cybersecurity-incident-report-network-traffic-analysis-TEMPLATE.docx
 
 ### Step 2: Access supporting materials  
 The following supporting materials will help you complete this activity. Keep them open as you proceed to the next steps. 
 To use the supporting materials for this course item,  click the following links and select Use Template. 
 
-- Link to supporting materials: 
+- Link to supporting materials: https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Cybersecurity%20Incident%20Report/Example-of-a-Cybersecurity-Incident-Report.docx
 
 ### Step 3: Provide a summary of the problem found in the tcpdump log
 After analyzing the data presented to you from the tcpdump log, identify trends in the data. Assess which protocol is producing the error message from the DNS server for the yummyrecipesforme.com website. Recall that one of the ports that is displayed repeatedly is port 53, commonly used for DNS. In your analysis:  
@@ -64,6 +64,5 @@ Now that you’ve inspected the traffic log and identified trends in the traffic
 
 ### Completed Incident Report:
 
-Link:
-- https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Cybersecurity%20Incident%20Report/Cybersecurity-incident-report-network-traffic-analysis.docx
+Link: https://github.com/hhbcca/CS_Portfolio/blob/main/Projects/Cybersecurity%20Incident%20Report/Cybersecurity-incident-report-network-traffic-analysis.docx
 
